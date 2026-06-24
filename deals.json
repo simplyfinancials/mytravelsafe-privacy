@@ -1,0 +1,42 @@
+[
+  {
+    "id": "insurance",
+    "emoji": "🛡️",
+    "product": "Travel Insurance",
+    "company": "SafeTrip Insurance Co.",
+    "benefit": "15% off your first policy",
+    "url": "https://mytravelsafe.com/go/insurance"
+  },
+  {
+    "id": "esim",
+    "emoji": "📱",
+    "product": "eSIM Data",
+    "company": "Airalo",
+    "benefit": "10% off international eSIM",
+    "url": "https://mytravelsafe.com/go/esim"
+  },
+  {
+    "id": "hotels",
+    "emoji": "🏨",
+    "product": "Hotels",
+    "company": "Booking.com",
+    "benefit": "Best price guarantee",
+    "url": "https://mytravelsafe.com/go/hotels"
+  },
+  {
+    "id": "flights",
+    "emoji": "✈️",
+    "product": "Flights",
+    "company": "Skyscanner",
+    "benefit": "Compare millions of routes",
+    "url": "https://mytravelsafe.com/go/flights"
+  },
+  {
+    "id": "luggage",
+    "emoji": "🧳",
+    "product": "Luggage",
+    "company": "Away",
+    "benefit": "$20 off your first bag",
+    "url": "https://mytravelsafe.com/go/luggage"
+  }
+]
