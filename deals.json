@@ -3,9 +3,10 @@
     "id": "insurance",
     "emoji": "🛡️",
     "product": "Travel Insurance",
-    "company": "SafeTrip Insurance Co.",
-    "benefit": "15% off your first policy",
-    "url": "https://mytravelsafe.com/go/insurance"
+    "company": "PassportCard",
+    "benefit": "Special benefit — no foreign exchange fees abroad",
+    "benefit_he": "רכשו ביטוח וקבלו הטבה מיוחדת - רכישה בחו״ל ללא עמלות מט״ח",
+    "url": "https://buy.passportcard.co.il/?AffiliateId=J4MWsB%2FDbs5elkexjspY8g%3D%3D&exT=VTJGc2RHVmtYMTkyTGR2b3dtdUpSUHNGWXFhRkRUbSt2aHZHMVBDeEtDVT0%3D&t=VTJGc2RHVmtYMSthVlNsT1BSQVI1MXJYT2JtU3JIVm1QZktKZEJVZHdvdUlmNUJmRWRCS0dHMld6cEZLV1IwcA%3D%3D&i=VTJGc2RHVmtYMTlXMlVZKzI1cE4rVm1mTU9OL0llSE50NUZHSnhPY2FBZkNsSnZQcFRwbG1ZS3ljSENSV0ExUHR2TTFmT1UwMlBzMkU5SFUxZFk2TVQvY1B3SHVKdUF3bEVLSVBZcTFDa3dLNnVCL2pZc0xkdjdDYmxsNldvNUw2OTdmS3BiNkdXVjNqQllDOVZqSDh3PT0%3D"
   },
   {
     "id": "esim",
