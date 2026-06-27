@@ -12,9 +12,11 @@
     "id": "insurance2",
     "emoji": "🛡️",
     "product": "Travel Insurance",
+    "product_he": "ביטוח נסיעות",
     "company": "Harel",
-    "benefit": "Quick online travel insurance — buy in minutes",
-    "benefit_he": "ביטוח נסיעות מהיר — רכישה אונליין בדקות",
+    "company_he": "הראל",
+    "benefit": "Quick online travel insurance - buy in minutes",
+    "benefit_he": "ביטוח נסיעות מהיר - רכישה אונליין בדקות",
     "url": "https://digital.harel-group.co.il/travel-policy/?guid=8709a9b0-5055-4b14-89a3-d9cfc25ad88d"
   },
   {
