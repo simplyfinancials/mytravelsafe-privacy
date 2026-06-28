@@ -1,0 +1,13 @@
+[
+  {
+    "_comment": "Each object is a paid/featured promo slot shown at the top of the Deals tab. Set active:false to hide without deleting. Optional startDate/endDate (ISO) schedule it. Remove this _comment example and add real promos. url MUST be https.",
+    "id": "example-disabled",
+    "title": "Your sponsored slot here",
+    "title_he": "מקום למודעה ממומנת",
+    "subtitle": "Sold to a travel brand",
+    "subtitle_he": "נמכר למותג נסיעות",
+    "emoji": "⭐",
+    "url": "https://example.com",
+    "active": false
+  }
+]
