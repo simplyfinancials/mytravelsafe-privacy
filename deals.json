@@ -4,7 +4,7 @@
     "emoji": "🛡️",
     "product": "Travel Insurance",
     "company": "PassportCard",
-    "benefit": "Special benefit — no foreign exchange fees abroad",
+    "benefit": "Special benefit - no foreign exchange fees abroad",
     "benefit_he": "רכשו ביטוח וקבלו הטבה מיוחדת - רכישה בחו״ל ללא עמלות מט״ח",
     "url": "https://buy.passportcard.co.il/?AffiliateId=J4MWsB%2FDbs5elkexjspY8g%3D%3D&exT=VTJGc2RHVmtYMTkyTGR2b3dtdUpSUHNGWXFhRkRUbSt2aHZHMVBDeEtDVT0%3D&t=VTJGc2RHVmtYMSthVlNsT1BSQVI1MXJYT2JtU3JIVm1QZktKZEJVZHdvdUlmNUJmRWRCS0dHMld6cEZLV1IwcA%3D%3D&i=VTJGc2RHVmtYMTlXMlVZKzI1cE4rVm1mTU9OL0llSE50NUZHSnhPY2FBZkNsSnZQcFRwbG1ZS3ljSENSV0ExUHR2TTFmT1UwMlBzMkU5SFUxZFk2TVQvY1B3SHVKdUF3bEVLSVBZcTFDa3dLNnVCL2pZc0xkdjdDYmxsNldvNUw2OTdmS3BiNkdXVjNqQllDOVZqSDh3PT0%3D"
   },
@@ -18,37 +18,5 @@
     "benefit": "Quick online travel insurance - buy in minutes",
     "benefit_he": "ביטוח נסיעות מהיר - רכישה אונליין בדקות",
     "url": "https://digital.harel-group.co.il/travel-policy/?guid=8709a9b0-5055-4b14-89a3-d9cfc25ad88d"
-  },
-  {
-    "id": "esim",
-    "emoji": "📱",
-    "product": "eSIM Data",
-    "company": "Airalo",
-    "benefit": "10% off international eSIM",
-    "url": "https://mytravelsafe.com/go/esim"
-  },
-  {
-    "id": "hotels",
-    "emoji": "🏨",
-    "product": "Hotels",
-    "company": "Booking.com",
-    "benefit": "Best price guarantee",
-    "url": "https://mytravelsafe.com/go/hotels"
-  },
-  {
-    "id": "flights",
-    "emoji": "✈️",
-    "product": "Flights",
-    "company": "Skyscanner",
-    "benefit": "Compare millions of routes",
-    "url": "https://mytravelsafe.com/go/flights"
-  },
-  {
-    "id": "luggage",
-    "emoji": "🧳",
-    "product": "Luggage",
-    "company": "Away",
-    "benefit": "$20 off your first bag",
-    "url": "https://mytravelsafe.com/go/luggage"
   }
 ]
