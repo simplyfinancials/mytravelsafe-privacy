@@ -18,5 +18,37 @@
     "benefit": "Quick online travel insurance - buy in minutes",
     "benefit_he": "ביטוח נסיעות מהיר - רכישה אונליין בדקות",
     "url": "https://digital.harel-group.co.il/travel-policy/?guid=8709a9b0-5055-4b14-89a3-d9cfc25ad88d"
+  },
+  {
+    "id": "esim",
+    "emoji": "📱",
+    "product": "eSIM Data",
+    "company": "Airalo",
+    "benefit": "Stay connected from landing - browse eSIM plans by country",
+    "url": "https://www.airalo.com/"
+  },
+  {
+    "id": "hotels",
+    "emoji": "🏨",
+    "product": "Hotels",
+    "company": "Booking.com",
+    "benefit": "Price match guarantee - never pay more than booking direct",
+    "url": "https://www.booking.com/"
+  },
+  {
+    "id": "flights",
+    "emoji": "✈️",
+    "product": "Flights",
+    "company": "Skyscanner",
+    "benefit": "Compare millions of routes in seconds - every airline, one search",
+    "url": "https://www.skyscanner.com/"
+  },
+  {
+    "id": "carRental",
+    "emoji": "🚗",
+    "product": "Car Rental",
+    "company": "Booking.com",
+    "benefit": "Compare rental cars worldwide - book in minutes",
+    "url": "https://www.booking.com/cars.html"
   }
 ]
